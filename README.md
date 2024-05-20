@@ -8,8 +8,18 @@ Solar System Simulation is an interactive application with advance rendering usi
 - Hop between planets for detailed observations
 - Educational tool with information about each planet
 
+## Demo
+
+| Observe | Switch |
+| ---- | ---- |
+| ![Observe](Docs/gifs/observe.gif) | ![Switch](Docs/gifs/switch.gif) |
+
+
 
 ## Introduction
+
+
+
 
 
 
