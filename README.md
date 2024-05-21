@@ -12,7 +12,7 @@ Solar System Simulation is an interactive application with advance rendering usi
 
 | Observe | Switch |
 | ---- | ---- |
-| ![Observe](Docs/gifs/observe.gif) | ![Switch](Docs/gifs/switch.gif) |
+| ![Observe](Docs/gifs/observe.gif) |  ![Switch](Docs/gifs/switch.gif) |
 
 
 
